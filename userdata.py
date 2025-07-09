@@ -3,3 +3,4 @@
 
 # List to store user info
 users = []
+print("hi")
